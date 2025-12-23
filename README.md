@@ -13,7 +13,7 @@ Include the `enctype-json.js` script in your HTML.
 
 Use `enctype="application/json"` together with `method="POST"` in your form.
 
-```
+```html
 <form method="POST" enctype="application/json">
 </form>
 ```
