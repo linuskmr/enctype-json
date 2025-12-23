@@ -1,6 +1,6 @@
 # JSON-support for HTML forms
 
-This JS script adds the capability to forms to natively send JSON data in a POST request instead of the typical `multipart/form-data`.
+This JS script adds the capability to HTML forms to natively send JSON data in a POST request instead of the typical `multipart/form-data`.
 
 
 ## Usage
